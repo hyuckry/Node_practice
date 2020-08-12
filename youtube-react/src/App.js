@@ -4,17 +4,16 @@ import Search_bar from './components/search_bar.js';
 import YoutubeSearch from "youtube-api-search";
 import VideoList from './components/video_list.js';
 import VideoDetail from './components/video_detail.js';
-import './style/style.css';
-
-const API_KEY='';
+import './style/style.css'; 
+ 
+const API_KEY = process.env.REACT_APP_YOUTUBE_API_KEY;
 
 export default class App extends Component {
 
   constructor(props){
-    super (props);
-
+    super (props); 
+    console.log(API_KEY);
     this.state = {videos:[], selectedVideo:null} 
-
     this.videoSearch('songs')
   }
 
