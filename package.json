@@ -1,0 +1,42 @@
+{
+  "name": "nodepractice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "expressEx.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node expressEx.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyuckry/Node_practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hyuckry/Node_practice/issues"
+  },
+  "homepage": "https://github.com/hyuckry/Node_practice#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.0",
+    "chalk": "^4.1.0",
+    "cheerio": "^1.0.0-rc.3",
+    "debug": "^4.1.1",
+    "express": "^4.17.1",
+    "google-auth-library": "^6.0.6",
+    "googleapis": "^58.0.0",
+    "jquery": "^3.5.1",
+    "morgan": "^1.10.0",
+    "mysql2": "^2.1.0",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.5",
+    "sequelize": "^6.3.3",
+    "testing-library": "0.0.2",
+    "youtube-api-search-reloaded": "^3.0.1"
+  },
+  "devDependencies": {
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.22.0"
+  }
+}

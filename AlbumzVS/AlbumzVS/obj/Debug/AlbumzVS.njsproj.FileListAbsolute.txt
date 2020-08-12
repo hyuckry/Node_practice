@@ -1,0 +1,3 @@
+D:\Github_Repo\Node_practice\AlbumzVS\AlbumzVS\obj\Debug\AlbumzVS.njsprojAssemblyReference.cache
+D:\Github_Repo\Node_practice\AlbumzVS\AlbumzVS\obj\Debug\AlbumzVS.njsproj.CoreCompileInputs.cache
+D:\Github_Repo\Node_practice\AlbumzVS\AlbumzVS\bin\Microsoft.NodejsTools.WebRole.dll
